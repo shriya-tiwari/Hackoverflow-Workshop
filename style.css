@@ -1,0 +1,58 @@
+body {
+	background-color: #202020;
+	font-size: 10px;
+}
+
+h1 {
+	color: rgb(255, 255, 255);
+	background-color: #d3b50c;
+	font-size: 3em;
+	text-align: center;
+	margin: 0;
+	padding: 15px;
+}
+
+#colorcode {
+	font-size: 2em;
+}
+
+.stripe {
+	background: rgb(255, 255, 255);
+	height: 30px;
+	text-align: center;
+}
+
+#message {
+	color: #b80b0b;
+	font-size: 1.7em;
+	display: inline-block;
+	width: 20%;
+}
+
+.container {
+    padding: 10px;
+	max-width: 600px;
+    margin: auto;
+}
+
+.box {
+	width: 18em;
+    border-radius: 1.5rem;
+	padding-bottom: 30%;
+	float: left;
+	margin: 1em;
+} 
+
+button {
+	color: #b80b0b;
+	font-size: 1.5em;
+	background-color: white;
+	height: 100%;
+    border: 0px solid red;
+}
+
+button:hover {
+	background-color: #b80b0b;
+	color: white;
+}
+
